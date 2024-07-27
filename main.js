@@ -1,0 +1,1 @@
+console.log("This is a javascript file which iam going to push it to github")
